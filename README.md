@@ -1,3 +1,6 @@
+Deprecated! This repository will not be updated anymore. Find more information on the International Data Spaces [here](https://github.com/International-Data-Spaces-Association/).
+=============================================
+
 [![Build Status](https://travis-ci.com/industrial-data-space/trusted-connector.svg?branch=develop)](https://travis-ci.org/industrial-data-space/trusted-connector)
 
 The _Trusted Connector_ is an Apache Karaf-based platform for the Industrial Internet of Things (IIoT). It supports Docker and trust|me as containerization environments and provides the following features:
